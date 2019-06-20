@@ -5,8 +5,8 @@ C:\Users\Elliott\source\repos\Fixer\Fixer\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Elliott\source\repos\Fixer\Fixer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Elliott\source\repos\Fixer\Fixer\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Elliott\source\repos\Fixer\Fixer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-C:\Users\Elliott\source\repos\Fixer\Fixer\obj\Debug\Fixer.csprojAssemblyReference.cache
 C:\Users\Elliott\source\repos\Fixer\Fixer\obj\Debug\Fixer.csproj.CoreCompileInputs.cache
 C:\Users\Elliott\source\repos\Fixer\Fixer\obj\Debug\Fixer.csproj.CopyComplete
 C:\Users\Elliott\source\repos\Fixer\Fixer\obj\Debug\Fixer.dll
 C:\Users\Elliott\source\repos\Fixer\Fixer\obj\Debug\Fixer.pdb
+C:\Users\Elliott\source\repos\Fixer\Fixer\obj\Debug\Fixer.csprojAssemblyReference.cache
